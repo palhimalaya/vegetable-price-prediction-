@@ -1,10 +1,15 @@
 ##vegetable-price-prediction-
 #minor project model
-You can add your country data set and train the model to predict the price of fruits and vegitables.
+
 You can learn by seeing the code in the repo or create own code according to dataset.
 
 
 ## How to Contribute 👨‍💻
+
+1) You can add your country data set and train the model to predict the price of fruits and vegitables.
+2) You can modify any new features in this code also.
+3) You can report any bugs also and can improve that.
+4) You can Create your own prediction model in any topic and language.
 
 ## Clone the repository
 
